@@ -1,0 +1,21 @@
+{
+  "name": "multipleRequests",
+  "version": "0.0.0",
+  "description": "Multiple requests from server and merge results for one response",
+  "main": "app.js",
+  "dependencies": {
+    "promise": "~7.0.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/StGeass/multipleRequests.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "StGeass",
+  "bugs": {
+    "url": "https://github.com/StGeass/multipleRequests/issues"
+  }
+}
